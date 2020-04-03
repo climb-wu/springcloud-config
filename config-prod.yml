@@ -1,2 +1,2 @@
 config:
-  info: "master breach, springcloud-config/config-p.yml  version=1"
+  info: "master breach, springcloud-config/config-prod.yml  version=1"
